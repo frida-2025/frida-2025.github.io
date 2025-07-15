@@ -8,7 +8,7 @@ layout: default
 
 **Location:** Berlin, Germany
 
-**Colocated with:** [DISC 2025](https://www.disc-conference.org/wp/)
+**Colocated with:** [DISC 2025](https://www.disc-conference.org/wp/disc2025/)
 
 ## About FRIDA
 
