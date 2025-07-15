@@ -1,0 +1,50 @@
+# Site settings
+title: FRIDA 2025
+description: >-
+  The 12th Workshop on Formal Reasoning in Distributed Algorithms
+  colocated with DISC 2025 in Berlin, Germany
+baseurl: ""
+url: "https://frida-2025.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
+
+# Workshop details
+workshop:
+  year: 2025
+  edition: 12th
+  date: "Monday, October 27, 2025"
+  location: "Berlin, Germany"
+  colocation: "DISC 2025"
+  colocation_url: "https://www.disc-conference.org/wp/"
+
+# Enable titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+# SEO
+lang: en
+author: FRIDA Workshop Organizers
+
+# Exclude from processing
+exclude:
+  - previous-edition/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
