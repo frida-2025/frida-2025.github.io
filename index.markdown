@@ -4,7 +4,7 @@ layout: default
 
 # The 12th Workshop on Formal Reasoning in Distributed Algorithms
 
-**Date:** Monday, October 27, 2025
+**Date:** Monday, October 27, 2025 (whole-day workshop)
 
 **Location:** Berlin, Germany
 
