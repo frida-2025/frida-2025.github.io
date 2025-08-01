@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  The 12th Workshop on Formal Reasoning in Distributed Algorithms
 ---
 
 # The 12th Workshop on Formal Reasoning in Distributed Algorithms
