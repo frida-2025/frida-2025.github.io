@@ -32,7 +32,7 @@ The topics of interest for the FRIDA workshop include the following, as they app
 
 ## Call for Participation
 
-We are looking for speakers to present their work at FRIDA 2025. Please submit proposals for talks by email to the organizers by **September 15, 2025**. Submissions will be reviewed on an ongoing basis.
+We are looking for speakers to present their work at FRIDA 2025. Please submit proposals for talks by email to the organizers by **September 30, 2025**. Submissions will be reviewed on an ongoing basis.
 
 Talk proposals should include:
 - Title and abstract
