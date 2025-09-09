@@ -101,18 +101,18 @@ We are looking for speakers to present their work at FRIDA 2025. Please submit p
   </summary>
   <div markdown="1">
 
-Binding requires a distributed protocol to limit the possible outputs of processes, in a manner that is unknown to the processes themselves. Commitment fixes the output to a value that remains hidden from almost all processes. Both are hyperproperties since they consider possible extensions of a trace.
+Binding requires a distributed protocol to limit the possible outputs of processes, in a manner that is unknown to the processes themselves. Commitment fixes the output to a value that remains hidden from almost all processes. Both are hyperproperties since they consider possible extensions of a trace. 
 
-Specifying these properties is cumbersome, and arguing about them is even more so.
+Specifying these properties is cumbersome, and arguing about them is even more so. 
 
-This talk explores how these properties can be captured by enforcing strong refinement of abstract modules that produce *ghost outputs*, which are not observed by the processes invoking the protocol implementing the module. We will discuss how ghost outputs may facilitate the composition and verification of such modules.
+This talk explores how these properties can be captured by enforcing strong refinement of abstract modules that produce *ghost outputs*, which are not observed by the processes invoking the protocol implementing the module. We will discuss how ghost outputs may facilitate the composition and verification of such modules. 
 
 Examples will include binding crusader agreement and gather, random secret draw and verifiable secret sharing.
 
   </div>
 </details>
 
-**[Stefan Schimd, TU Berlin](https://schmiste.github.io/)** --- "Synthesis of dependable and self-driving communication networks"
+**[Stefan Schmid, TU Berlin](https://schmiste.github.io/)** --- "Synthesis of dependable and self-driving communication networks"
 <details class="talk">
   <summary>
     <span class="summary-hint">Click to see abstract</span>
