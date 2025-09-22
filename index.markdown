@@ -134,7 +134,7 @@ We will also discuss opportunities of AI/ML methodologies in this context.
     <span class="summary-hint">Click to see abstract</span>
   </summary>
   <div markdown="1">
-Where the number of trials of a mechanism is bounded, it is sensible to engineer that mechanism to have such a small probability ϵ that over all time we can discount the probability delta of it ever going wrong.    So if there are at most 10⁹ trials and we are prepared to accept a 10⁻⁹ probability of failure over all time, this would suggest ϵ=10⁻¹⁸.   If a blockchain has a good source of random numbers, this allows us to create many efficient mechanisms, including consensus, that are stochastically certain to work. A number of interesting challenges in formal reasoning arise.
+  Where the number of trials of a mechanism is bounded, it is sensible to engineer that mechanism to have such a small probability ϵ of failure that over all time we can discount the probability δ of it ever going wrong. So if there are at most 10⁹ trials and we are prepared to accept a δ=10⁻⁹ probability of failure over all time, this would suggest ϵ=10⁻¹⁸. If a blockchain has a good source of random numbers, this allows us to create many efficient mechanisms, including consensus, that are stochastically certain to work. A number of interesting challenges in formal reasoning arise.
   </div>
 </details>
 
