@@ -82,7 +82,7 @@ h2 {
 
 The FRIDA workshop aims to foster collaboration between the distributed algorithms and formal-methods communities. This workshop provides a forum for researchers to present recent advances in formal reasoning about distributed algorithms and systems, share experiences, and discuss future directions.
 
-To attend, please register on the [DISC 2025](https://www.disc-conference.org/wp/disc2025/) website (registration will open soon).
+To attend, please [register on the DISC 2025 website](https://www.disc-conference.org/wp/disc2025/registration/).
 
 FRIDA 2025 is organized by:
 - [Giuliano Losa](https://www.losa.fr/) (giuliano@stellar.org), Stellar Development Foundation
@@ -127,6 +127,42 @@ approaches to efficiently generate and update network configurations.
 We will also discuss opportunities of AI/ML methodologies in this context.
   </div>
 </details>
+
+**[Bill Roscoe, Emeritus professor at Oxford University Computer Science Department and head of University College Oxford Blockchain Research Centre](https://www.cs.ox.ac.uk/people/bill.roscoe/)** --- "Stochastic reasoning in decentralised systems"
+<details class="talk">
+  <summary>
+    <span class="summary-hint">Click to see abstract</span>
+  </summary>
+  <div markdown="1">
+Where the number of trials of a mechanism is bounded, it is sensible to engineer that mechanism to have such a small probability ϵ that over all time we can discount the probability delta of it ever going wrong.    So if there are at most 10⁹ trials and we are prepared to accept a 10⁻⁹ probability of failure over all time, this would suggest ϵ=10⁻¹⁸.   If a blockchain has a good source of random numbers, this allows us to create many efficient mechanisms, including consensus, that are stochastically certain to work. A number of interesting challenges in formal reasoning arise.
+  </div>
+</details>
+
+**[Juan Villacis, University of Bern](https://crypto.unibe.ch/jv/)** --- "Weaker assumptions for asymmetric trust"
+
+**[Raïssa Nataf, Technion](https://www.technion.ac.il/en/)**
+
+**[Isabelle Coget, École Polytechnique](https://www.linkedin.com/in/isabelle-coget-b63b5b197/)** --- "Automated Reasoning on Consistency Models with MONA"
+<details class="talk">
+  <summary>
+    <span class="summary-hint">Click to see abstract</span>
+  </summary>
+  <div markdown="1">
+
+Reasoning about consistency models for replicated objects is a challenging task that requires a deep understanding of both the consistency models themselves and a large part of human inputs in mechanized verification approaches.
+
+In this work, we introduce a fully automated approach to reasoning about consistency models for replicated objects. We explore the monadic second-order logic (MSO) representation of consistency properties, with the aim of extending the well-known MSO-to-automata translation to traces of executions.
+
+Thus, this talk focuses on reducing MSO over execution traces to MSO over finite words, so as to match the input requirements of the MONA tool, which performs satisfiability in this setting by translating such formulas into automata.
+  </div>
+</details>
+
+**[Ivana Bocevska, TU Wien](https://informatics.tuwien.ac.at/)**
+<!-- Automated game-theoretic reasoning with CheckMate -->
+
+**[Yannic Maus, TU Graz](https://academia.yannicmaus.de/)**
+
+**[Nathalie Bertrand, University of Rennes, Inria, CNRS, IRISA](https://people.rennes.inria.fr/Nathalie.Bertrand/index.html)**
 
 ## Topics of Interest
 
