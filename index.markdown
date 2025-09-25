@@ -94,7 +94,7 @@ We are looking for speakers to present their work at FRIDA 2025. Please submit p
 
 ## Confirmed Speakers
 
-**[Hagit Attiya, Technion](https://hagit.net.technion.ac.il/)** --- "Specifying binding and commitment with ghost outputs and strong refinement"
+**[Hagit Attiya](https://hagit.net.technion.ac.il/)**, Technion --- "Specifying binding and commitment with ghost outputs and strong refinement"
 <details class="talk">
   <summary>
     <span class="summary-hint">Click to see abstract</span>
@@ -112,7 +112,7 @@ Examples will include binding crusader agreement and gather, random secret draw 
   </div>
 </details>
 
-**[Stefan Schmid, TU Berlin](https://schmiste.github.io/)** --- "Synthesis of dependable and self-driving communication networks"
+**[Stefan Schmid](https://schmiste.github.io/)**, TU Berlin --- "Synthesis of dependable and self-driving communication networks"
 <details class="talk">
   <summary>
     <span class="summary-hint">Click to see abstract</span>
@@ -128,7 +128,7 @@ We will also discuss opportunities of AI/ML methodologies in this context.
   </div>
 </details>
 
-**[Bill Roscoe, Emeritus professor at Oxford University Computer Science Department and head of University College Oxford Blockchain Research Centre](https://www.cs.ox.ac.uk/people/bill.roscoe/)** --- "Stochastic reasoning in decentralised systems"
+**[Bill Roscoe](https://www.cs.ox.ac.uk/people/bill.roscoe/)**, Emeritus professor at Oxford University and University College Oxford Blockchain Research Centre --- "Stochastic reasoning in decentralised systems"
 <details class="talk">
   <summary>
     <span class="summary-hint">Click to see abstract</span>
@@ -138,11 +138,20 @@ We will also discuss opportunities of AI/ML methodologies in this context.
   </div>
 </details>
 
-**[Juan Villacis, University of Bern](https://crypto.unibe.ch/jv/)** --- "Weaker assumptions for asymmetric trust"
+**[Juan Villacis](https://crypto.unibe.ch/jv/)**, University of Bern --- "What properties should asymmetric quorum systems satisfy?"
 
-**[Raïssa Nataf, Technion](https://www.technion.ac.il/en/)**
+<details class="talk">
+  <summary>
+    <span class="summary-hint">Click to see abstract</span>
+  </summary>
+  <div markdown="1">
+ In distributed systems with asymmetric trust, each participant is free to make its own trust assumptions about others, captured by an asymmetric quorum system. This contrasts with ordinary, symmetric quorum systems and threshold models, where trust assumptions are uniformly shared among participants. In the symmetric setting, quorum systems must satisfy the consistency and availability properties to solve key problems like reliable broadcast and consensus. But what properties are needed in the asymmetric setting to solve these problems? We examine this question in both the crash-fault and Byzantine models. In the crash-fault setting, any quorum system satisfying consistency and availability can be transformed into a symmetric one, removing any benefit from asymmetric trust. In the Byzantine model, consistency and availability are not enough to solve reliable broadcast and consensus. Existing approaches overcome this by introducing stronger assumptions. We show that some of these assumptions are overly restrictive, so much so that they effectively eliminate the benefits of asymmetric trust. We introduce a new way to characterize asymmetric problems and, based on this, present protocols for reliable broadcast and consensus that work under weaker assumptions than existing solutions.
+  </div>
+</details>
 
-**[Isabelle Coget, École Polytechnique](https://www.linkedin.com/in/isabelle-coget-b63b5b197/)** --- "Automated Reasoning on Consistency Models with MONA"
+**[Raïssa Nataf](https://www.technion.ac.il/en/)**, Technion
+
+**[Isabelle Coget](https://www.linkedin.com/in/isabelle-coget-b63b5b197/)**, Polytechnic Institute of Paris --- "Automated Reasoning on Consistency Models with MONA"
 <details class="talk">
   <summary>
     <span class="summary-hint">Click to see abstract</span>
@@ -157,12 +166,23 @@ Thus, this talk focuses on reducing MSO over execution traces to MSO over finite
   </div>
 </details>
 
-**[Ivana Bocevska, TU Wien](https://informatics.tuwien.ac.at/)**
-<!-- Automated game-theoretic reasoning with CheckMate -->
+**[Ivana Bocevska](https://informatics.tuwien.ac.at/)**, TU Wien --- "Automated Game-Theoretic Security Analysis of Blockchain Protocols"
+<details class="talk">
+  <summary>
+    <span class="summary-hint">Click to see abstract</span>
+  </summary>
+  <div markdown="1">
+Game-theoretic security analysis of blockchain technologies has proven highly valuable. Such analysis examines protocols from an economic perspective, specifically by exploring the economic incentives that drive user behavior. Thus, it ensures that deviating from the intended, honest behavior of a protocol is not financially beneficial: as long as users follow the protocol, they cannot be financially harmed, regardless of how others behave. Such an economic analysis of blockchain protocols can be encoded as an automated reasoning problem in the first-order theory of real arithmetic, thereby reducing game-theoretic reasoning to satisfiability modulo theories (SMT) solving.
+We conduct a divide-and-conquer security analysis based on compositional reasoning over games. Our compositional analysis is incremental: we divide games into subgames such that changes to one subgame do not necessitate re-analyzing the entire game, but only the ancestor nodes. Our approach is sound, complete, and effective: combining the security properties of subgames yields security of the entire game. Experimental results show that compositional reasoning scales well to games with millions of nodes, enabling security analysis of large real-life protocols.
+  </div>
+</details>
 
-**[Yannic Maus, TU Graz](https://academia.yannicmaus.de/)**
+**[Yannic Maus](https://academia.yannicmaus.de/)**, TU Graz
 
-**[Nathalie Bertrand, University of Rennes, Inria, CNRS, IRISA](https://people.rennes.inria.fr/Nathalie.Bertrand/index.html)**
+**[Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/index.html)**, University of Rennes, Inria, CNRS, IRISA
+
+
+
 
 ## Topics of Interest
 
