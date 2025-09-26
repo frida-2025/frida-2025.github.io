@@ -202,7 +202,7 @@ We will also discuss opportunities of AI/ML methodologies in this context.
 
 <div class="slot">15:10–15:50 — <strong><a href="https://people.rennes.inria.fr/Nathalie.Bertrand/index.html">Nathalie Bertrand</a></strong>, University of Rennes, Inria, CNRS, IRISA</div>
 
-<div class="slot">15:50–16:30 — Coming soon</div>
+<div class="slot">15:50–16:30 — <strong><a href="https://gchockler.com/">Gregory Chockler</a></strong>, University of Surrey, “Proving Linearizability of Fault-Tolerant Register Protocols: Dependency Graph Approach”</div>
 </div>
 
 <div class="break">16:30—17:00 — Break</div>
