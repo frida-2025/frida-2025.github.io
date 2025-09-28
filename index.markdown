@@ -200,7 +200,30 @@ We will also discuss opportunities of AI/ML methodologies in this context.
 </div>
 </details>
 
-<div class="slot">15:10–15:50 — <strong><a href="https://people.rennes.inria.fr/Nathalie.Bertrand/index.html">Nathalie Bertrand</a></strong>, University of Rennes, Inria, CNRS, IRISA</div>
+
+<div class="slot">15:10–15:50 — <strong><a href="https://people.rennes.inria.fr/Nathalie.Bertrand/index.html">Nathalie Bertrand</a></strong>, University of Rennes, Inria, CNRS, IRISA, "Reduction theorems for effective parameterized verification of round- based distributed algorithms"</div>
+<details class="talk">
+<summary><span class="summary-hint">Click to see abstract</span></summary>
+<div markdown="1">
+Standard formal methods techniques apply to the verification of
+distributed algorithms only for a fixed number of finite-state processes.
+Parameterized verification aims at generalizing this to checking correctness for
+any number of processes, but typically assumes each process is finite-state. We
+address a more general setting, asynchronous round-based distributed algorithms,
+in which every process executes an unbounded sequence of asynchronous rounds and
+is therefore infinite-state. The resulting systems are unbounded in two
+dimensions: the number of processes and the number of rounds.
+Towards efficient verification of parameterized round-based distributed
+algorithms, we exhibit a series of reduction theorems, that collapses the
+unbounded round dimension into a single counter and reduces the parameterized
+verification problem to LTL model checking of a counter system. This enables the
+use of off-the-shelf state-of-the-art infinite-state model checkers such as
+NuXmv. We demonstrate the feasibility of our approach by verifying several
+round-based consensus and leader election algorithms.
+This is a joint worh with Pranav Ghorpade and Sasha Rubin.
+</div>
+</details>
+
 
 <div class="slot">15:50–16:30 — <strong><a href="https://gchockler.com/">Gregory Chockler</a></strong>, University of Surrey, “Proving Linearizability of Fault-Tolerant Register Protocols: Dependency Graph Approach”</div>
 </div>
