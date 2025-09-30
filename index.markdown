@@ -174,7 +174,13 @@ In distributed systems with asymmetric trust, each participant is free to make i
 </div>
 </details>
 
-<div class="slot">11:40–12:20 — <strong><a href="https://www.technion.ac.il/en/">Raïssa Nataf</a></strong>, Technion</div>
+<div class="slot">11:40–12:20 — <strong><a href="https://www.technion.ac.il/en/">Raïssa Nataf</a></strong>, Technion, "The Delaying the Future Approach"</div>
+<details class="talk">
+<summary><span class="summary-hint">Click to see abstract</span></summary>
+<div markdown="1">
+The Delaying the Future approach provides a framework for reasoning about the order of events in executions: under precise conditions we identified, events can be postponed and reordered in ways that remain indistinguishable to processes. This approach applies across different computational models. Characterizing the conditions under which this is possible requires defining an appropriate relation between events for each model, capturing when order must be preserved. This talk will show how the approach yields clean characterizations of communication requirements in asynchronous message-passing systems (DISC 2024), and how the same reasoning extends to shared-memory systems under the TSO memory model (DISC 2025). This talk highlights the power of the Delaying the Future approach and its practical implications for implementing standard objects such as registers.
+</div>
+</details>
 
 <div class="slot">12:20–13:00 — <strong><a href="https://academia.yannicmaus.de/">Yannic Maus</a></strong>, TU Graz</div>
 </div>
