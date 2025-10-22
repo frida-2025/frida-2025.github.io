@@ -182,7 +182,26 @@ The Delaying the Future approach provides a framework for reasoning about the or
 </div>
 </details>
 
-<div class="slot">12:20–13:00 — <strong><a href="https://academia.yannicmaus.de/">Yannic Maus</a></strong>, TU Graz</div>
+<div class="slot">12:20–13:00 — <strong><a href="https://academia.yannicmaus.de/">Yannic Maus</a></strong>, TU Graz, "The Quest for efficient algorithms for the constructive distributed Lovász Local Lemma"</div>
+<details class="talk">
+<summary><span class="summary-hint">Click to see abstract</span></summary>
+<div markdown="1">
+</div>
+The Lovász Local Lemma (LLL) is a versatile tool that can model a
+wide range of combinatorial and probabilistic problems, including
+those arising in coloring, scheduling, and constraint
+satisfaction. In the distributed setting, the constructive form of
+the LLL has become a central framework for understanding locality
+and randomness in algorithm design. Following the breakthrough of
+Moser and Tardos, which established an polylogarithmic-time
+algorithm, a major question has been to identify which classes of
+LLL instances admit faster, sublogarithmic-time solutions. In this
+talk, we will highlight cases where such improvements have been
+successfully achieved, examine key obstacles encountered in prior
+work, and discuss the remaining challenges toward developing a
+general sublogarithmic-time algorithm for the distributed LLL.
+</details>
+
 </div>
 
 <div class="break lunch">13:00–14:30 — Lunch Break</div>
