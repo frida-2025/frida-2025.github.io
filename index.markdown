@@ -232,6 +232,12 @@ This is a joint worh with Pranav Ghorpade and Sasha Rubin.
 
 
 <div class="slot">15:50–16:30 — <strong><a href="https://gchockler.com/">Gregory Chockler</a></strong>, University of Surrey, “Proving Linearizability of Fault-Tolerant Register Protocols: Dependency Graph Approach”</div>
+<details class="talk">
+<summary><span class="summary-hint">Click to see abstract</span></summary>
+<div markdown="1">
+</div>
+We propose a framework for proving linearizability of fault-tolerant register implementations in message-passing systems. Our framework is inspired by the declarative semantics approach commonly used in the programming languages community to specify the correctness of weak memory systems. It builds upon an abstraction of a dependency graph—a union of partial orders among read and write operations induced by an execution of the implementation algorithm. This approach yields surprisingly simple proofs that avoid the difficulties associated with standard techniques, such as linearization point arguments and forward simulations.
+</details>
 </div>
 
 <div class="break">16:30—17:00 — Break</div>
