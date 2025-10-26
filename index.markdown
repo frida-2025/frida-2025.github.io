@@ -163,7 +163,7 @@ We conduct a divide-and-conquer security analysis based on compositional reasoni
 <div class="session">
 <div class="session-header">
 Session 2 — Morning II
-<span class="session-time">11:00–12:20</span>
+<span class="session-time">11:00–13:00</span>
 </div>
 
 <div class="slot">11:00–11:40 — <strong><a href="https://crypto.unibe.ch/jv/">Juan Villacis</a></strong>, University of Bern, “What properties should asymmetric quorum systems satisfy?”</div>
