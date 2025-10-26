@@ -129,7 +129,7 @@ FRIDA 2025 is organized by:
 - [Giuliano Losa](https://www.losa.fr/) (giuliano@stellar.org), Stellar Development Foundation
 - [Stephan Merz](https://members.loria.fr/Stephan.Merz/) (stephan.merz@loria.fr), INRIA Nancy & LORIA
 
-## Tentative Schedule
+## Schedule
 
 <!-- NOTE indenting HTML breaks everything; don't do it -->
 
