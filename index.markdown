@@ -139,7 +139,7 @@ Session 1 — Morning I
 <span class="session-time">09:30–10:30</span>
 </div>
 
-<div class="slot">09:30–10:10 — <strong><a href="https://www.cs.ox.ac.uk/people/bill.roscoe/">Bill Roscoe</a></strong>, Oxford University and University College Oxford Blockchain Research Centre, “Stochastic reasoning in decentralised systems”</div>
+<div class="slot">09:30–10:10 — <strong><a href="https://www.cs.ox.ac.uk/people/bill.roscoe/">Bill Roscoe</a></strong>, Oxford University and University College Oxford Blockchain Research Centre, "Stochastic reasoning in decentralised systems" [<a href="slides/Stochastic reasoning in decentralised systems, Bill Roscoe, FRIDA 2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
