@@ -33,6 +33,10 @@ titles_from_headings:
 lang: en
 author: FRIDA Workshop Organizers
 
+# Include static files
+include:
+  - slides
+
 # Exclude from processing
 exclude:
   - previous-edition/
@@ -48,3 +52,4 @@ exclude:
   - vendor/ruby/
   - README.md
   - LICENSE
+  - CLAUDE.md
