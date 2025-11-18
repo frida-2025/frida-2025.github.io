@@ -139,7 +139,7 @@ Session 1 — Morning I
 <span class="session-time">09:30–10:30</span>
 </div>
 
-<div class="slot">09:30–10:10 — <strong><a href="https://www.cs.ox.ac.uk/people/bill.roscoe/">Bill Roscoe</a></strong>, Oxford University and University College Oxford Blockchain Research Centre, "Stochastic reasoning in decentralised systems" [<a href="slides/Stochastic reasoning in decentralised systems, Bill Roscoe, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">09:30–10:10 — <strong><a href="https://www.cs.ox.ac.uk/people/bill.roscoe/">Bill Roscoe</a></strong>, Oxford University and University College Oxford Blockchain Research Centre, "Stochastic reasoning in decentralised systems" [<a href="slides/Stochastic-reasoning-in-decentralised-systems--Bill-Roscoe--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -147,7 +147,7 @@ Where the number of trials of a mechanism is bounded, it is sensible to engineer
 </div>
 </details>
 
-<div class="slot">10:10–10:30 — <strong><a href="https://informatics.tuwien.ac.at/">Ivana Bocevska</a></strong>, TU Wien, "Automated Game-Theoretic Security Analysis of Blockchain Protocols" [<a href="slides/Automated Game-Theoretic Security Analysis of Blockchain Protocols, Ivana Bocevska, FRIDA 2025.pptx">slides</a>]
+<div class="slot">10:10–10:30 — <strong><a href="https://informatics.tuwien.ac.at/">Ivana Bocevska</a></strong>, TU Wien, "Automated Game-Theoretic Security Analysis of Blockchain Protocols" [<a href="slides/Automated-Game-Theoretic-Security-Analysis-of-Blockchain-Protocols--Ivana-Bocevska--FRIDA-2025.pptx">slides</a>]
 </div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
@@ -166,7 +166,7 @@ Session 2 — Morning II
 <span class="session-time">11:00–13:00</span>
 </div>
 
-<div class="slot">11:00–11:40 — <strong><a href="https://crypto.unibe.ch/jv/">Juan Villacis</a></strong>, University of Bern, "What properties should asymmetric quorum systems satisfy?" [<a href="slides/What properties should asymmetric quorum systems satisfy, Juan Villacis, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">11:00–11:40 — <strong><a href="https://crypto.unibe.ch/jv/">Juan Villacis</a></strong>, University of Bern, "What properties should asymmetric quorum systems satisfy?" [<a href="slides/What-properties-should-asymmetric-quorum-systems-satisfy--Juan-Villacis--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -174,7 +174,7 @@ In distributed systems with asymmetric trust, each participant is free to make i
 </div>
 </details>
 
-<div class="slot">11:40–12:20 — <strong><a href="https://www.technion.ac.il/en/">Raïssa Nataf</a></strong>, Technion, "The Delaying the Future Approach" [<a href="slides/The Delaying the Future Approach, Raïssa Nataf, FRIDA 2025.pptx">slides</a>]</div>
+<div class="slot">11:40–12:20 — <strong><a href="https://www.technion.ac.il/en/">Raïssa Nataf</a></strong>, Technion, "The Delaying the Future Approach" [<a href="slides/The-Delaying-the-Future-Approach--Raïssa-Nataf--FRIDA-2025.pptx">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -212,7 +212,7 @@ Session 3 — Afternoon I
 <span class="session-time">14:30–16:30</span>
 </div>
 
-<div class="slot">14:30–15:10 — <strong><a href="https://schmiste.github.io/">Stefan Schmid</a></strong>, TU Berlin, "Synthesis of dependable and self-driving communication networks" [<a href="slides/Synthesis of dependable and self-driving communication networks, Stefan Schmid, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">14:30–15:10 — <strong><a href="https://schmiste.github.io/">Stefan Schmid</a></strong>, TU Berlin, "Synthesis of dependable and self-driving communication networks" [<a href="slides/Synthesis-of-dependable-and-self-driving-communication-networks--Stefan-Schmid--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -226,7 +226,7 @@ We will also discuss opportunities of AI/ML methodologies in this context.
 </details>
 
 
-<div class="slot">15:10–15:50 — <strong><a href="https://people.rennes.inria.fr/Nathalie.Bertrand/index.html">Nathalie Bertrand</a></strong>, University of Rennes, Inria, CNRS, IRISA, "Reduction theorems for effective parameterized verification of round- based distributed algorithms" [<a href="slides/Reduction theorems for effective parameterized verification of round-based distributed algorithms, Nathalie Bertrand, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">15:10–15:50 — <strong><a href="https://people.rennes.inria.fr/Nathalie.Bertrand/index.html">Nathalie Bertrand</a></strong>, University of Rennes, Inria, CNRS, IRISA, "Reduction theorems for effective parameterized verification of round- based distributed algorithms" [<a href="slides/Reduction-theorems-for-effective-parameterized-verification-of-round-based-distributed-algorithms--Nathalie-Bertrand--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -250,7 +250,7 @@ This is a joint worh with Pranav Ghorpade and Sasha Rubin.
 </details>
 
 
-<div class="slot">15:50–16:30 — <strong><a href="https://gchockler.com/">Gregory Chockler</a></strong>, University of Surrey, "Proving Linearizability of Fault-Tolerant Register Protocols: Dependency Graph Approach" [<a href="slides/Proving Linearizability of Fault-Tolerant Register Protocols - Dependency Graph Approach, Gregory Chockler, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">15:50–16:30 — <strong><a href="https://gchockler.com/">Gregory Chockler</a></strong>, University of Surrey, "Proving Linearizability of Fault-Tolerant Register Protocols: Dependency Graph Approach" [<a href="slides/Proving-Linearizability-of-Fault-Tolerant-Register-Protocols---Dependency-Graph-Approach--Gregory-Chockler--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -267,7 +267,7 @@ Session 4 — Afternoon II
 <span class="session-time">17:00–18:00</span>
 </div>
 
-<div class="slot">17:00–17:20 — <strong><a href="https://www.linkedin.com/in/isabelle-coget-b63b5b197/">Isabelle Coget</a></strong>, Polytechnic Institute of Paris, "Automated Reasoning on Consistency Models with MONA" [<a href="slides/Automated Reasoning on Consistency Models with MONA, Isabelle Coget, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">17:00–17:20 — <strong><a href="https://www.linkedin.com/in/isabelle-coget-b63b5b197/">Isabelle Coget</a></strong>, Polytechnic Institute of Paris, "Automated Reasoning on Consistency Models with MONA" [<a href="slides/Automated-Reasoning-on-Consistency-Models-with-MONA--Isabelle-Coget--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
@@ -279,7 +279,7 @@ Thus, this talk focuses on reducing MSO over execution traces to MSO over finite
 </div>
 </details>
 
-<div class="slot">17:20–18:00 — <strong><a href="https://hagit.net.technion.ac.il/">Hagit Attiya</a></strong>, Technion, "Specifying binding and commitment with ghost outputs and strong refinement" [<a href="slides/Specifying binding and commitment with ghost outputs and strong refinement, Hagit Attiya, FRIDA 2025.pdf">slides</a>]</div>
+<div class="slot">17:20–18:00 — <strong><a href="https://hagit.net.technion.ac.il/">Hagit Attiya</a></strong>, Technion, "Specifying binding and commitment with ghost outputs and strong refinement" [<a href="slides/Specifying-binding-and-commitment-with-ghost-outputs-and-strong-refinement--Hagit-Attiya--FRIDA-2025.pdf">slides</a>]</div>
 <details class="talk">
 <summary><span class="summary-hint">Click to see abstract</span></summary>
 <div markdown="1">
